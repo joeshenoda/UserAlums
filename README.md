@@ -1,4 +1,6 @@
-git clone Repo URL
+git clone Repo URL : https://github.com/joeshenoda/UserAlums.git
+
+UserAlums
 
 composer install
 
