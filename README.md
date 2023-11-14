@@ -12,5 +12,6 @@ php artisan storage:link
 
 And we launch the project:
 
-php artisan serve
-npm run build or npm run dev
+php artisan serve 
+
+npm run dev
